@@ -35,7 +35,7 @@ const posts = [ // Create a list of posts
       role: 'CTO @Rocketseat' 
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋' },
+      { type: 'paragraph', content: 'Fala galeraa' },
       { type: 'paragraph',
         content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀'
       },
